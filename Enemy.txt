@@ -1,0 +1,4 @@
+
+name:Hitman;position:0,2;Right;
+name:StaticEnemy;position:1,1;Right;
+name:DynamicEnemy;position:2,1;Up;
